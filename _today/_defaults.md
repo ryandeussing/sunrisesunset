@@ -1,5 +1,4 @@
 ---
-color_date:
 color_1_name:
 color_1_color:
 color_2_name:
