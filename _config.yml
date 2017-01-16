@@ -23,7 +23,7 @@ twitter_username:
 github_username:
 
 collections:
-  colors:
+  today:
     output: true
     _hide_content: true
 
