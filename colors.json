@@ -6,6 +6,7 @@ layout: null
 
 {
   "colors": [
+    "date": {{ colors.color_date | date: "%m/%d/%Y" }},
     {
       "color1": {
         "name": {{ colors.color_1_name }},
