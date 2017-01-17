@@ -4,3 +4,55 @@ layout: null
 
 {% assign colors = site.today | last %}
 
+{
+  "colors": [
+      {
+        "name": "{{ colors.color_1_name }}",
+        "hex": "{{ colors.color_1_color }}"
+      },
+      {
+        "name": "{{ colors.color_2_name }}",
+        "hex": "{{ colors.color_2_color }}"
+      },
+      {
+        "name": "{{ colors.color_3_name }}",
+        "hex": "{{ colors.color_3_color }}"
+      },
+      {
+        "name": "{{ colors.color_4_name }}",
+        "hex": "{{ colors.color_4_color }}"
+      },
+      {
+        "name": "{{ colors.color_5_name }}",
+        "hex": "{{ colors.color_5_color }}"
+      },
+      {
+        "name": "{{ colors.color_6_name }}",
+        "hex": "{{ colors.color_6_color }}"
+      },
+      {
+        "name": "{{ colors.color_7_name }}",
+        "hex": "{{ colors.color_7_color }}"
+      },
+      {
+        "name": "{{ colors.color_8_name }}",
+        "hex": "{{ colors.color_8_color }}" 
+      },
+      {
+        "name": "{{ colors.color_9_name }}",
+        "hex": "{{ colors.color_9_color }}"
+      },
+      {
+        "name": "{{ colors.color_10_name }}",
+        "hex": "{{ colors.color_10_color }}"
+      },
+      {
+        "name": "{{ colors.color_11_name }}",
+        "hex": "{{ colors.color_11_color }}"
+      },
+      {
+        "name": "{{ colors.color_12_name }}",
+        "hex": "{{ colors.color_12_color }}"
+      }
+  ]
+}
