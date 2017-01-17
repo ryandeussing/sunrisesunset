@@ -36,7 +36,7 @@ layout: null
       },
       {
         "name": "{{ colors.color_8_name }}",
-        "hex": "{{ colors.color_8_color }}"
+        "hex": "{{ colors.color_8_color }}" 
       },
       {
         "name": "{{ colors.color_9_name }}",
