@@ -6,43 +6,43 @@ layout: null
 
 {
   "colors": [
-    {
-      "color1": {
+
+      {
         "name": "{{ colors.color_1_name }}",
         "hex": "{{ colors.color_1_color }}"
       },
-      "color2": {
+      {
         "name": "{{ colors.color_2_name }}",
         "hex": "{{ colors.color_2_color }}"
       },
-      "color3": {
+      {
         "name": "{{ colors.color_3_name }}",
         "hex": "{{ colors.color_3_color }}"
       },
-      "color4": {
+      {
         "name": "{{ colors.color_4_name }}",
         "hex": "{{ colors.color_4_color }}"
       },
-      "color5": {
+      {
         "name": "{{ colors.color_5_name }}",
         "hex": "{{ colors.color_5_color }}"
       },
-      "color6": {
+      {
         "name": "{{ colors.color_6_name }}",
         "hex": "{{ colors.color_6_color }}"
       },
-      "color7": {
+      {
         "name": "{{ colors.color_7_name }}",
         "hex": "{{ colors.color_7_color }}"
       },
-      "color8": {
+      {
         "name": "{{ colors.color_8_name }}",
         "hex": "{{ colors.color_8_color }}"
       },
-      "color9": {
+      {
         "name": "{{ colors.color_9_name }}",
         "hex": "{{ colors.color_9_color }}"
       }
-    }
+
   ]
 }
