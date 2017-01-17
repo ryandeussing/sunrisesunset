@@ -6,7 +6,6 @@ layout: null
 
 {
   "colors": [
-
       {
         "name": "{{ colors.color_1_name }}",
         "hex": "{{ colors.color_1_color }}"
