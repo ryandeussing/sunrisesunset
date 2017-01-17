@@ -17,4 +17,10 @@ color_8_name:
 color_8_color:
 color_9_name:
 color_9_color:
+color_10_name:
+color_10_color:
+color_11_name:
+color_11_color:
+color_12_name:
+color_12_color:
 ---

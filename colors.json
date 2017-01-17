@@ -42,7 +42,20 @@ layout: null
       {
         "name": "{{ colors.color_9_name }}",
         "hex": "{{ colors.color_9_color }}"
+      },
+      {
+        "name": "{{ colors.color_10_name }}",
+        "hex": "{{ colors.color_10_color }}"
+      },
+      {
+        "name": "{{ colors.color_11_name }}",
+        "hex": "{{ colors.color_11_color }}"
+      },
+      {
+        "name": "{{ colors.color_12_name }}",
+        "hex": "{{ colors.color_12_color }}"
       }
+
 
   ]
 }
