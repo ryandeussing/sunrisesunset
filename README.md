@@ -14,3 +14,4 @@ This jekyll 'server' outputs a single `JSON` file.
 5. Click on the new Colorset to open it, and then add color names and hex values
 6. Click the blue disk icon to save the Colorset, this will rebuild the site.
 
+!(https://github.com/ryandeussing/sunrisesunset-server/blob/master/assets/editor.png)
