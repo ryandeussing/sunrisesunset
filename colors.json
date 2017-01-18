@@ -2,7 +2,18 @@
 layout: null
 ---
 
-{% assign colors = site.colorsets | last %}
+<!-- hack to skip last colorset if it is incomplete or empty -->
+{% assign length = site.colorsets | size %}
+{% assign last = length | minus: 1 %}
+{% assign prev = length | minus: 2 %}
+
+{% assign last_size = site.colorsets[last].color_12_color.size %}
+
+{% if last_size > 3 %}
+  {% assign colors = site.colorsets[last] %}
+{% else %}
+  {% assign colors = site.colorsets[prev] %}
+{% endif %}
 
 {
   "colors": [
