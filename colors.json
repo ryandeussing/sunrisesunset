@@ -1,8 +1,6 @@
 ---
 layout: null
 ---
-
-<!-- hack to skip last colorset if it is incomplete or empty -->
 {% assign length = site.colorsets | size %}
 {% assign last = length | minus: 1 %}
 {% assign prev = length | minus: 2 %}
