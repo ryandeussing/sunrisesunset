@@ -1,8 +1,6 @@
 # Whitney Sunrise Sunset
 Allard Van Hoorn, code by Ryan Deussing
 
-This jekyll 'server' outputs a single `JSON` file.
-
 ### To update
 
 [Login](http://elegant-bean.cloudvent.net/update) and then:
