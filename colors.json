@@ -2,7 +2,7 @@
 layout: null
 ---
 
-{% assign colors = site.today | last %}
+{% assign colors = site.colorsets | last %}
 
 {
   "colors": [
