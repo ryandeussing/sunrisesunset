@@ -1,6 +1,6 @@
 ---
-color_1_name:
-color_1_color:
+color_1_name: ww
+color_1_color: '#bc5c5c'
 color_2_name:
 color_2_color:
 color_3_name:
