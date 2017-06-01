@@ -1,26 +1,26 @@
 ---
-color_1_name:
-color_1_color:
-color_2_name:
-color_2_color:
-color_3_name:
-color_3_color:
-color_4_name:
-color_4_color:
-color_5_name:
-color_5_color:
-color_6_name:
-color_6_color:
-color_7_name:
-color_7_color:
-color_8_name:
-color_8_color:
-color_9_name:
-color_9_color:
-color_10_name:
-color_10_color:
-color_11_name:
-color_11_color:
-color_12_name:
-color_12_color:
+color_1_name: test
+color_1_color: '#ab5e5e'
+color_2_name: test
+color_2_color: '#4d2929'
+color_3_name: test
+color_3_color: '#d6cbcb'
+color_4_name: test
+color_4_color: '#9d7373'
+color_5_name: test
+color_5_color: '#683b3b'
+color_6_name: test
+color_6_color: '#e48181'
+color_7_name: test
+color_7_color: '#5c3b3b'
+color_8_name: test
+color_8_color: '#2d1111'
+color_9_name: test
+color_9_color: '#453333'
+color_10_name: test
+color_10_color: '#b87b7b'
+color_11_name: test
+color_11_color: '#a36c6c'
+color_12_name: test
+color_12_color: '#211b1b'
 ---
