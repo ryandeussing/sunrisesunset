@@ -1,5 +1,5 @@
 ---
-color_1_name: test
+color_1_name: test 2
 color_1_color: '#ab5e5e'
 color_2_name: test
 color_2_color: '#4d2929'
